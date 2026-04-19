@@ -1,2 +1,2 @@
-# ProjectRST
-Edition et écriture en reStructuredText 
+# ProjetRST
+> Documentation en ReStructuredText pour projets modulaires.
