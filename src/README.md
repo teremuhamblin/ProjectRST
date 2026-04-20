@@ -2,7 +2,7 @@
 
 ## 📁 Dossier `src/`
 
-Le dossier `src/` contient l’ensemble du code source de **ProjetRST**.  
+Le dossier `src/` contient l’ensemble du code source de `**ProjetRST**`.  
 Il suit une architecture modulaire, claire et extensible, permettant une évolution
 progressive du projet sans dette technique.
 
@@ -20,7 +20,7 @@ progressive du projet sans dette technique.
 
 ---
 
-### 🧩 Composants principaux
+### 🧩 Composants principaux "ProjetRST"
 
 #### **`client.py`**
 Gère l’exécution globale du projet et le chargement des modules.
