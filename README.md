@@ -9,7 +9,7 @@ maintenable et extensible.
 ### 📁 Structure du projet
 ```text
 ProjetRST/
-├── docs/
+├── Docs(.rst)/
 │   ├── index.rst
 │   ├── introduction.rst
 │   ├── installation.rst
@@ -19,11 +19,11 @@ ProjetRST/
 │   ├── api.rst
 │   ├── configuration.rst
 │   ├── cli.rst
-│   ├── roadmap.rst
-│   ├── changelog.rst
 │   └── glossary.rst
 ├── src/
 ├── tests/
+└── ROADMAP.md
+├── CHANGELOG.md
 └── README.md
 ```
 
