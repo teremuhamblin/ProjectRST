@@ -1,19 +1,38 @@
-###### INDEX.md - markdown
-# ProjetRST
-## INDEX de la Documentation
+```text=================================
+📘 ProjetRST — Documentation
+=================================
+```
+> Bienvenue dans la documentation officielle de `**ProjetRST**`.  
+- Ce guide regroupe l’ensemble des informations nécessaires pour comprendre,
+installer, utiliser et étendre le projet.
+
+---
+
 ```rst
 .. toctree::
+   :caption: 📚 Sommaire
    :maxdepth: 2
-   :caption: Sommaire
+   :numbered:
 ```
+---
 
+```text
    introduction
-   architecture
-   modules
    installation
    usage
-   roadmap
-   api/index
-   annexes/glossary
-   annexes/changelog
-   annexes/license
+   architecture
+   modules
+   api
+   configuration
+   cli
+   glossary
+```
+
+---
+
+### 📄 Notes
+--------
+
+- Tous les fichiers sont situés dans le dossier ``Docs(.rst)/``.
+- La documentation est entièrement rédigée en `**ReStructuredText (RST)**`.
+- Compatible avec `Sphinx` pour la génération `HTML/PDF`.
