@@ -1,3 +1,7 @@
 pytest
 sphinx
 pyyaml
+ruff
+black
+build
+twine
