@@ -6,8 +6,7 @@ maintenable et extensible.
 
 ---
 
-📁 Structure du projet
-
+### 📁 Structure du projet
 ```text
 ProjetRST/
 ├── docs/
@@ -30,8 +29,7 @@ ProjetRST/
 
 ---
 
-🚀 Objectifs
-
+### 🚀 Objectifs
 - Centraliser toute la documentation dans docs/
 - Fournir une base propre et professionnelle
 - Faciliter la génération Sphinx
@@ -39,53 +37,50 @@ ProjetRST/
 
 ---
 
-📦 Installation
-
-`bash
+### 📦 Installation
+```bash
 pip install projetrst
-`
+```
 
 Développement :
-
-`bash
+```bash
 git clone https://github.com/username/projetrst.git
 cd projetrst
 pip install -e .
-`
+```
 
 ---
 
-🧰 Utilisation
-
-`python
+### 🧰 Utilisation
+```python
 from projetrst import Client
 
 client = Client()
 client.run()
-`
+```
 
 ---
 
-📚 Documentation
-
-Toute la documentation est disponible dans docs/ au format RST.
+### 📚 Documentation
+- Toute la documentation est disponible dans docs/ au format RST.
 
 ---
 
-🗺️ Roadmap
+### 🗺️ Roadmap
 
 - v1.0.0 : version stable
 - v1.1.0 : modules optionnels
-- v2.0.0 : refonte du cœur
+- v1.2.0 : refonte du cœur
 
 ---
 
-📄 Licence
+### 📄 Licence
 
-ProjetRST est distribué sous licence MIT (modifiable selon ton besoin).
+> ProjetRST est distribué sous licence MIT (modifiable selon ton besoin).
 `
 
 ---
 
-🎯 Tout est prêt. ProjetRST est maintenant complet et propre.
+> 🎯 Tout est prêt.
+- ProjetRST est maintenant complet et propre.
 
