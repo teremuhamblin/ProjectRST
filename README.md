@@ -22,9 +22,11 @@ ProjetRST/
 │   └── glossary.rst
 ├── src/
 ├── tests/
+└── INDEX.md
 └── ROADMAP.md
 ├── CHANGELOG.md
 └── README.md
+└── LICENCE
 ```
 
 ---
