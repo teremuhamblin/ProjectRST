@@ -1,10 +1,7 @@
-=================
-Changelog
-=================
-
-v1.0.0 — Initial Release
-------------------------
-
+###### CHANGELOG.md - markdown
+# Changelog
+> v1.0.0 — Vesion Initiale
 - Première version stable
 - Documentation complète
-- CLI intégrée
+
+A mettre a jour ...
